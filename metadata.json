@@ -1,0 +1,5 @@
+{
+  "name": "Resume Parser Registration Form",
+  "description": "An intelligent registration form that allows users to either fill out their details manually or automatically populate the fields by uploading their resume. The app uses Gemini to parse the resume and extract relevant information.",
+  "requestFramePermissions": []
+}
